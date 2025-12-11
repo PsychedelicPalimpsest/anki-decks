@@ -6,7 +6,7 @@ Some of my anki decks
 
 * Exam-DL.js
     * A tool to export completed exams from CarmenCanvas. 
-    * Also see over at [GreasyFork](https://greasyfork.org/en/scripts/558068-examdl)
+    * Also see over at [GreasyFork](https://greasyfork.org/en/scripts/558663-examdl)
 * ankigen.py
     * A simple script to convert your exams (exported with Exam-DL.js) to anki files
     * Usage:
